@@ -1,10 +1,12 @@
+<p align="center">Hello there, I'm Arun 🙋</p>
+
 # 💫 About Me:
-🎓 I'm a B. Sc. (Computer Science) graduate form Delhi University
-🔭 My goal is to do what can be done and review what cannot be done
-🌱 My interests - Backend Development, Building Cross-platform applications, Data Analytics, Technical Writing, Teaching, and Poetry.
-💟 I aim to solve real-world problems by developing robust applications.
-🚀 I’m looking for progressive career in Backend Development.
-💯 I'm committed to learn new technologies, solve real-world problems and give my 100%
+🎓 I'm a B. Sc. (Computer Science) graduate form Delhi University. <br>
+🔭 My goal is to do what can be done and review what cannot be done. <br>
+🌱 My interests - Backend Development, Building Cross-platform applications, Data Analytics, Technical Writing, Teaching, and Poetry. <br>
+💟 I aim to solve real-world problems by developing robust applications. <br>
+🚀 I’m looking for progressive career in Backend Development. <br>
+💯 I'm committed to learn new technologies, solve real-world problems and give my 100%. <br>
 
 
 ## 🌐 Socials:
