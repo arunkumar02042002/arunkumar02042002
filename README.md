@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a B.Sc. graduate in Computer Science from the University of Delhi.<br>I'm passionate about learning new technologies.<br>I'm currently learning backend development using Django and building my own website for my writing work.<br>Connect with me to learn more about my background and how I can contribute to your organization's success.
+🎓 I'm a B. Sc. (Computer Science) graduate form Delhi University
+🔭 My goal is to do what can be done and review what cannot be done
+🌱 My interests - Backend Development, Building Cross-platform applications, Data Analytics, Technical Writing, Teaching, and Poetry.
+💟 I aim to solve real-world problems by developing robust applications.
+🚀 I’m looking for progressive career in Backend Development.
+💯 I'm committed to learn new technologies, solve real-world problems and give my 100%
 
 
 ## 🌐 Socials:
