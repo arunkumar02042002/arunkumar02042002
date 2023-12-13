@@ -1,4 +1,4 @@
-<p align="center">Hello there, I'm Arun 🙋</p>
+<h2 align="center">Hello there, I'm Arun 🙋</h2>
 
 # 💫 About Me:
 🎓 I'm a B. Sc. (Computer Science) graduate form Delhi University. <br>
